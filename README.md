@@ -216,8 +216,3 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 * Build an **admin dashboard** (Flask/FastAPI) to view/export attendance
 * Store embeddings as **BLOB** and move DB credentials into a `.env` file
 
----
-
-## License
-
-This project is provided for educational purposes. Add a license (MIT/Apache-2.0) if you plan to distribute publicly.
